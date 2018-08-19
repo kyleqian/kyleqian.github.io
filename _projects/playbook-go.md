@@ -10,13 +10,13 @@ Playbook Go is a wireless, one-to-many VR instructional tool that effectively sc
 <p><div class="yt-video-wrapper"><iframe src="https://www.youtube.com/embed/S7rBHZ6hDKU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
 <center><sub><i>The trainer operates a 2D desktop interface, while multiple trainees can simultaneously and individually see what the trainer is doing.</i></sub></center></p>
 
-While interning at [STRIVR]("https://strivr.com/"), I was fortunate to not only help ship an initial MVP to a major client, but have enough time left over to work on a smaller project of my own design, which turned into Playbook Go.
+While interning at [STRIVR](https://strivr.com/){:target="_blank"}, I was fortunate to not only help ship an initial MVP to a major client, but have enough time left over to work on a smaller project of my own design, which turned into Playbook Go.
 
 At the time, most of STRIVR's products were built for the Oculus Rift, which presented clear challenges to both scalability (one trainer to one trainee at a time) and convenience (bulky VR laptops and messy cabling). Also at the time, Oculus Go dev kits were recently released ahead of its spring launch and there were a few in the office. I saw a clear opportunity for STRIVR to take advantage of standalone VR for training, and I set out to create a working demo before the end of my internship.
 
 ![]({{ site.url }}/assets/img/playbookgo1.png)
 
-In creating Playbook Go, I took heavy inspiration from [Google Expeditions]("https://edu.google.com/expeditions/#about"), which is a Cardboard app that's essentially "VR fieldtrips." Notably, the app included the following features:
+In creating Playbook Go, I took heavy inspiration from [Google Expeditions](https://edu.google.com/expeditions/#about){:target="_blank"}, which is a Cardboard app that's essentially "VR fieldtrips." Notably, the app included the following features:
 
 * **Wireless, one-to-many connectivity**---teachers oversaw the lesson on a tablet
 * **Gaze detection**---teachers could see where each student was looking
