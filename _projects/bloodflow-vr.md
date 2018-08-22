@@ -1,5 +1,5 @@
 ---
-title: Bloodflow Project
+title: Bloodflow VR
 layout: project
 time_: Spring 2018
 tags_: VR, Unity, computer graphics
