@@ -6,6 +6,12 @@ layout: default
 
 <div class="project-subtitle"><i>
 	{{ page.time_ }} | {{ page.tags_ }}
+
+	{% if page.with_ %}
+		<br>
+		With {{ page.with_ }}
+	{% endif %}
+
 	{% if page.ext_link_ %}
 		<br>
 		{% assign parsed_ext_link = page.ext_link_ | split: "|" %}
