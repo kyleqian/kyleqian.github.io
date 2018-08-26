@@ -6,11 +6,15 @@
 /* General */
 
 section {
-    width: 580px;
+    width: 620px;
 }
 
+.wrapper {
+    width: 880px;
+} 
+
 .project-body a:hover, .project-body a:focus {
-	color: #069; font-weight: inherit;
+    color: #069; font-weight: inherit;
 }
 
 /* Projects */
