@@ -5,25 +5,29 @@
 
 /* General */
 
+section {
+    width: 580px;
+}
+
 .project-body a:hover, .project-body a:focus {
 	color: #069; font-weight: inherit;
 }
 
 /* Projects */
 
-.yt-video-wrapper {
+.yt-vid-wrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
     height: 0;
 }
 
-.video-wrapper {
+.vid-wrapper {
 	position: relative;
     padding-bottom: 52%;
 	height: 0;
 }
 
-.yt-video-wrapper iframe, .video-wrapper video {
+.yt-vid-wrapper iframe, .vid-wrapper video {
     position: absolute;
     top: 0;
     left: 0;
