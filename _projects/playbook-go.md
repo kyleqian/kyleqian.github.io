@@ -16,14 +16,14 @@ At the time, most of STRIVR's products were built for the Oculus Rift, which pre
 
 ![]({{ site.url }}/assets/img/playbookgo1.jpg)
 
-In creating Playbook Go, I took heavy inspiration from [Google Expeditions](https://edu.google.com/expeditions/#about){:target="_blank"}, which is a Cardboard app that's essentially "VR fieldtrips." Notably, the app included the following features:
+In creating Playbook Go, I tooked towards [Google Expeditions](https://edu.google.com/expeditions/#about){:target="_blank"} as an example of a shared, curated VR experience. I took heavy inspiration from their concept of a "VR fieldtrip" in the following features:
 
-* **Wireless, one-to-many connectivity**---teachers oversaw the lesson on a tablet
-* **Gaze detection**---teachers could see where each student was looking
-* **Attention direction**---teachers could point students to look at specific points of interest, and dynamic arrows would appear in each student's headset
+* **Wireless, one-to-many connectivity**---teachers oversee the shared lesson on a tablet
+* **Gaze detection**---teachers can see where each student is looking
+* **Attention direction**---teachers can point students to look at specific points of interest, and guiding arrows would appear in each student's headset
 
-Because I created the project in Unity, I had the distinct pleasure of wrangling with Unity's infamous UNET multiplayer API to enable sync'd video playback and gaze/attention tracking. Using a similar model to many local multiplayer games, each trainee (player) would connect to a room created by a trainer (host/server). This way the trainer is able to capture the gaze of each trainee, as well as make broadcasted manipulations to the VR video visible to everyone else.
+To implement these networked features, I had the distinct pleasure of wrangling with Unity's infamous UNET multiplayer API to enable sync'd video playback and gaze/attention tracking. Using a similar model to many local multiplayer games, each trainee (player) would connect to a room created by a trainer (host/server). This way the trainer is able to capture the gaze of each trainee, as well as make broadcasted manipulations to the VR video visible to everyone else.
 
 ![]({{ site.url }}/assets/img/playbookgo2.jpg)
 
-Each of those features was present in my final Playbook Go demo, which additionally included the ability for trainers to markup the VR video with a brush. The demo was very well-received, and prompted the leadership team to further consider the far-reaching benefits of scaling VR training via standalone headsets.
+My final Playbook Go demo to the company also included the ability for trainers to markup the VR video with a brush. The demo was very well-received, and prompted the leadership team to further consider the far-reaching benefits of scaling VR training via standalone headsets.
