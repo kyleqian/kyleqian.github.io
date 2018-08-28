@@ -15,7 +15,7 @@ layout: default
 	{% if page.ext_link_ %}
 		<br>
 		{% assign parsed_ext_link = page.ext_link_ | split: "|" %}
-		<a target="_blank" href="{{ parsed_ext_link[1] }}">> {{ parsed_ext_link[0] }}</a>
+		<a target="_blank" href="{{ parsed_ext_link[1] }}">[{{ parsed_ext_link[0] }}]</a>
 	{% endif %}
 </i></div>
 
@@ -24,5 +24,5 @@ layout: default
 </div>
 
 <div class="project-footer">
-	<a href="/projects">Back to Projects</a>
+	<a href="/projects">← Back to Projects</a>
 </div>
