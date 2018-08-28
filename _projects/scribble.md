@@ -10,8 +10,8 @@ Anyone who's tried VR long enough to encounter a search bar or a password screen
 
 Scribble explores handwriting as a fast, intuitive, and portable means of text input in VR. I worked on Scribble in a team of four, with sponsorship and support from Oculus.
 
-<p><div class="yt-vid-wrapper"><iframe src="https://www.youtube.com/embed/S7rBHZ6hDKU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
-<center><sub><i>[DESC DESC]. (Demo uses a Vive since the Oculus Go cannot yet mirror.)</i></sub></center></p>
+<p><div class="yt-vid-wrapper"><iframe src="https://www.youtube.com/embed/v7YRMaLWRPg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
+<center><sub><i>I'm using a Vive since the Oculus Go cannot yet mirror.</i></sub></center></p>
 
 We created Scribble as an iOS app that uses Google's stroke-based OCR API for handwriting recognition. The app streams 3DOF pose, parsed text, raw stroke, and button presses via a local TCP tunnel. Our initial prototyping showed handwriting to be nearly twice as fast as more common "laser pointer" methods of text input in VR, as well as significantly less taxing on users' arms over a longer period. Handwriting also has the added advantage of not requiring as much visual feedback, as most people don't have trouble writing without looking.
 
