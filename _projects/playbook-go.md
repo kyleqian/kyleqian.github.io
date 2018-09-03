@@ -7,7 +7,7 @@ tags_: VR, Unity, Oculus Go, interaction design
 
 Playbook Go is a wireless, one-to-many VR instructional tool that effectively scales how instructors and coaches do training. It leverages the portability of standalone Oculus Go headsets, and was created with Unity using the UNET multiplayer API.
 
-<p><div class="yt-vid-wrapper"><iframe src="https://www.youtube.com/embed/S7rBHZ6hDKU" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
+<p><div class="yt-vid-wrapper"><iframe src="https://www.youtube.com/embed/S7rBHZ6hDKU?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
 <center><sub><i>The trainer operates a 2D desktop interface, while multiple trainees can simultaneously and individually see what the trainer is doing.</i></sub></center></p>
 
 While interning at [STRIVR](https://strivr.com/){:target="_blank"}, I was fortunate to not only help ship an initial MVP to a major client, but have enough time left over to work on a smaller project of my own design, which turned into Playbook Go.

@@ -3,7 +3,7 @@ title: Bloodflow VR
 layout: project
 time_: Spring 2018
 tags_: VR, Unity, computer graphics
-ext_link_: Stanford Daily Article|https://www.stanforddaily.com/2018/07/23/pediatric-cardiologist-uses-vr-to-visualize-heart-defects/
+ext_links_: Stanford Daily Article|https://www.stanforddaily.com/2018/07/23/pediatric-cardiologist-uses-vr-to-visualize-heart-defects/
 ---
 
 I collaborated with [Lighthaus Inc.](https://www.lighthaus.us/){:target="_blank"} and the [Marsden Lab](https://cbcl.stanford.edu/about/mission){:target="_blank"} at Stanford to make cardiovascular simulations come alive in VR. Specifically, I worked to complete a data pipeline from [SimVascular](http://simvascular.github.io/){:target="_blank"}---a cardiovasular blood flow simulator---to Unity, where the timestep results of those simulations can be animated and freely manipulated in VR.

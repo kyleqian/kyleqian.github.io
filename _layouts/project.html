@@ -2,7 +2,17 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<div class="back-to-index">
+	<a href="/projects">← Back to Projects</a>
+</div>
+
+<br>
+
+{% if page.title_replacement_ %}
+	<div class="img-wrapper"><img class="html-image" src="{{ site.url }}{{ page.title_replacement_ }}"></div>
+{% else %}
+	<h1>{{ page.title }}</h1>
+{% endif %}
 
 <div class="project-subtitle"><i>
 	{{ page.time_ }} | {{ page.tags_ }}
@@ -12,10 +22,13 @@ layout: default
 		With {{ page.with_ }}
 	{% endif %}
 
-	{% if page.ext_link_ %}
+	{% if page.ext_links_ %}
 		<br>
-		{% assign parsed_ext_link = page.ext_link_ | split: "|" %}
-		<a target="_blank" href="{{ parsed_ext_link[1] }}">[{{ parsed_ext_link[0] }}]</a>
+		{% assign ext_links = page.ext_links_ | split: ";" %}
+		{% for ext_link in ext_links %}
+			{% assign parsed_link = ext_link | split: "|" %}
+			<a target="_blank" href="{{ parsed_link[1] }}">[{{ parsed_link[0] }}] </a>
+		{% endfor %}
 	{% endif %}
 </i></div>
 
@@ -24,5 +37,7 @@ layout: default
 </div>
 
 <div class="project-footer">
-	<a href="/projects">← Back to Projects</a>
+	<div class="back-to-index">
+		<a href="/projects">← Back to Projects</a>
+	</div>
 </div>
