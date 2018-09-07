@@ -1,16 +1,19 @@
 ---
 title: Sounds of the Woods
 layout: project
+order_: 0
 time_: Spring 2018
 tags_: VR, Unity, Oculus Go, game design
 with_: Angela He
 ext_links_: GitHub Page|https://github.com/kyleqian/SOUNDS-OF-THE-WOODS;Project Poster|/assets/misc/257Poster_KyleAngela.pdf
+prev_desc_: Audio-based VR horror game
+prev_img_: /assets/img/index/sotw.jpg
 title_replacement_: /assets/img/sotw-banner.jpg
 ---
 
 Sounds of the Woods is an audio-based horror game for the Oculus Go. Using the Oculus Go's 3DOF controller as a flashlight to ward off the unknown, players become increasingly reliant on sonic cues as daylight grows ever weaker.
 
-This game was created as a part of Stanford's course at CCRMA on [Neuroplasicity and Musical Gaming](https://ccrma.stanford.edu/courses/257-spring-2018/pages/overview/){:target="_blank"}, and is available for free on the Oculus Store. 
+This game was created as a part of Stanford's course at CCRMA on [Neuroplasicity and Musical Gaming](https://ccrma.stanford.edu/courses/257-spring-2018/pages/overview/){:target="_blank"}, and is available for free on the Oculus Store.
 
 <p><div class="yt-vid-wrapper"><iframe src="https://www.youtube.com/embed/3kUTf5dbFSs?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
 <center><sub><i>My flashlight runs out of battery in the presence of a visually invisible creature.</i></sub></center></p>

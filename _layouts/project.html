@@ -3,13 +3,13 @@ layout: default
 ---
 
 <div class="back-to-index">
-	<a href="/projects">← Back to Projects</a>
+	<a href="/projects">← Back to Home</a>
 </div>
 
 <br>
 
 {% if page.title_replacement_ %}
-	<div class="img-wrapper"><img class="html-image" src="{{ site.url }}{{ page.title_replacement_ }}"></div>
+	<div><img src="{{ site.url }}{{ page.title_replacement_ }}"></div>
 {% else %}
 	<h1>{{ page.title }}</h1>
 {% endif %}
@@ -38,6 +38,6 @@ layout: default
 
 <div class="project-footer">
 	<div class="back-to-index">
-		<a href="/projects">← Back to Projects</a>
+		<a href="/projects">← Back to Home</a>
 	</div>
 </div>

@@ -1,7 +1,10 @@
 ---
-layout: project
 title: Playbook Go
+layout: project
+order_: 2
 time_: Winter 2018
+prev_desc_: Wireless, networked VR training
+prev_img_: /assets/img/index/playbook-go.jpg
 tags_: VR, Unity, Oculus Go, interaction design
 ---
 
