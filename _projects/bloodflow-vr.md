@@ -4,7 +4,7 @@ layout: project
 order_: 3
 time_: Spring 2018
 tags_: VR, Unity, computer graphics
-prev_desc_: Cardiovascular simulations in VR
+prev_desc_: cardiovascular simulations in VR
 prev_img_: /assets/img/index/bloodflow-vr.jpg
 ext_links_: Stanford Daily Article|https://www.stanforddaily.com/2018/07/23/pediatric-cardiologist-uses-vr-to-visualize-heart-defects/
 ---

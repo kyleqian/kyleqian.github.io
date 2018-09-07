@@ -6,7 +6,7 @@ time_: Spring 2018
 tags_: VR, Unity, Oculus Go, game design
 with_: Angela He
 ext_links_: GitHub Page|https://github.com/kyleqian/SOUNDS-OF-THE-WOODS;Project Poster|/assets/misc/257Poster_KyleAngela.pdf
-prev_desc_: Audio-based VR horror game
+prev_desc_: audio-based VR horror game
 prev_img_: /assets/img/index/sotw.jpg
 title_replacement_: /assets/img/sotw-banner.jpg
 ---
