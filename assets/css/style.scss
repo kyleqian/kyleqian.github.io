@@ -6,13 +6,13 @@
 
 /* Override from theme defaults (use !important) */
 
-section {
-    width: 620px !important;
-}
+// section {
+//     width: 620px !important;
+// }
 
-.wrapper {
-    width: 880px !important;
-}
+// .wrapper {
+//     width: 880px !important;
+// }
 
 .project-body a:hover, .project-body a:focus {
     color: #069 !important;
@@ -29,6 +29,10 @@ body {
 
 h1 a, h1 a:hover {
     color: #222 !important;
+}
+
+header {
+    text-align: right;
 }
 
 /* Index */
