@@ -15,7 +15,7 @@ Sounds of the Woods is an audio-based horror game for the Oculus Go. Using the O
 
 This game was created as a part of Stanford's course at CCRMA on [Neuroplasicity and Musical Gaming](https://ccrma.stanford.edu/courses/257-spring-2018/pages/overview/){:target="_blank"}, and is available for free on the Oculus Store.
 
-<p><div class="yt-vid-wrapper"><iframe src="https://www.youtube.com/embed/3kUTf5dbFSs?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
+<p><div class="vid-wrapper-yt"><iframe src="https://www.youtube.com/embed/3kUTf5dbFSs?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
 <center><sub><i>My flashlight runs out of battery in the presence of a visually invisible creature.</i></sub></center></p>
 
 You're lost and injured in the woods, and it's quickly getting dark. All you have with you is a flashlight and a radio. Help won't arrive until sunrise, so you'll have to survive the night. You see friendly woodland creatures as the sun sets, but as the sky grows darker, you begin hearing other creatures lurking in the night...
