@@ -244,8 +244,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  jekyll-redirect-from
-  jekyll-theme-minimal
   tzinfo-data
 
 BUNDLED WITH

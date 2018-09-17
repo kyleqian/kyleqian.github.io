@@ -1,7 +1,5 @@
 ---
 layout: default
-redirect_from:
-  - /projects
 ---
 
 {% assign sorted_projects = site.projects | sort:"order_" %}
