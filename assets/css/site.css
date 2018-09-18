@@ -162,7 +162,7 @@ hr {
 }
 
 /* Override from theme defaults */
-.project-body a:hover, .project-body a:focus {
+.project-body a:hover, .project-body a:focus, .project-preview > a:hover {
   color: #069 !important;
   font-weight: inherit !important;
 }
