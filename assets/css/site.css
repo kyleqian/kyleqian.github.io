@@ -9,6 +9,7 @@ body {
   font: 14px/1.5 Lato, arial, sans-serif;
   font-weight: 400;
   overflow-y: scroll;
+  -webkit-font-smoothing: antialiased;
 }
 
 p, ul, ol, table, pre, dl {

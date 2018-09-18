@@ -14,23 +14,25 @@ layout: default
 	<h1>{{ page.title }}</h1>
 {% endif %}
 
-<div class="project-subtitle"><i>
-	{{ page.time_ }} | {{ page.tags_ }}
+<div class="project-subtitle">
+	<i>{{ page.time_ }}</i> | <i>{{ page.tags_ }}</i>
 
-	{% if page.with_ %}
-		<br>
-		With {{ page.with_ }}
-	{% endif %}
+	<i>
+		{% if page.with_ %}
+			<br>
+			With {{ page.with_ }}
+		{% endif %}
 
-	{% if page.ext_links_ %}
-		<br>
-		{% assign ext_links = page.ext_links_ | split: ";" %}
-		{% for ext_link in ext_links %}
-			{% assign parsed_link = ext_link | split: "|" %}
-			<a target="_blank" href="{{ parsed_link[1] }}">[{{ parsed_link[0] }}] </a>
-		{% endfor %}
-	{% endif %}
-</i></div>
+		{% if page.ext_links_ %}
+			<br>
+			{% assign ext_links = page.ext_links_ | split: ";" %}
+			{% for ext_link in ext_links %}
+				{% assign parsed_link = ext_link | split: "|" %}
+				<a target="_blank" href="{{ parsed_link[1] }}">[{{ parsed_link[0] }}] </a>
+			{% endfor %}
+		{% endif %}
+	</i>
+</div>
 
 <div class="project-body">
 	<p>{{ content }}</p>
