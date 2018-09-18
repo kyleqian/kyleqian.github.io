@@ -15,9 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Kyle Qian
 email: kylecqian@gmail.com
-description:
-  CS @ Stanford<br>
-  Virtual & Augmented Reality
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kyleqian.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  kyleqian

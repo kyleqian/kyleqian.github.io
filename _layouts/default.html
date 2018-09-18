@@ -28,9 +28,32 @@
   <body>
     <div class="banner-wrapper">
       <div class="banner">
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 id="banner-title"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div id="banner-desc">
+          <p>
+            CS @ Stanford
+            <br>
+            Virtual & Augmented Reality
+            <br>
+          </p>
+          <p>
+            <i>Currently working on:</i>
+            <br>
+            <a href="https://brown.columbia.edu/portfolio/charleston-reconstructed/" target="_blank">Subversive, site-specific AR</a>
+            <br>
+            supported by the <a href="https://brown.columbia.edu/" target="_blank">Brown Institute</a>
+            <br>
+          </p>
+          <p>
+            <a href="/assets/misc/Kyle_Qian_Resume.pdf" target="_blank">Resume</a>
+            <br>
+            <a href="mailto:kylecqian@gmail.com">Email</a>
+            <br>
+            <a href="https://github.com/kyleqian" target="_blank">GitHub</a>
+            <br>
+          </p>
+        </div>
       </div>
     </div>
 
