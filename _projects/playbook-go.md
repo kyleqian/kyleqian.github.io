@@ -27,6 +27,6 @@ In creating Playbook Go, I tooked towards [Google Expeditions](https://edu.googl
 
 To implement these networked features, I had the distinct pleasure of wrangling with Unity's infamous UNET multiplayer API to enable sync'd video playback and gaze/attention tracking. Using a similar model to many local multiplayer games, each trainee (player) would connect to a room created by a trainer (host/server). This way the trainer or teacher is able to capture the gaze of each trainee, as well as make broadcasted manipulations to the VR video that are visible to everyone.
 
-![]({{ site.url }}/assets/img/playbookgo2.jpg)
-
 My final Playbook Go demo at a company all-hands also included the ability for trainers to markup the VR video with a brush. The demo was very well-received, and prompted leadership to further consider the far-reaching benefits of scaling VR training via standalone headsets.
+
+![]({{ site.url }}/assets/img/playbookgo2.jpg)
