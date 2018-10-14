@@ -17,7 +17,7 @@ While interning at [STRIVR](https://strivr.com/){:target="_blank"}, I was fortun
 
 At the time, most of STRIVR's products were built for the Oculus Rift, which presented clear challenges to both scalability (one trainer to one trainee at a time) and convenience (bulky VR laptops and messy cabling). Also at the time, Oculus Go dev kits were recently released ahead of its spring launch. I saw a clear opportunity for STRIVR to take advantage of standalone VR for training, so I set out to create a working demo before the end of my internship.
 
-![]({{ site.url }}/assets/img/playbookgo1.jpg)
+![](/assets/img/playbookgo1.jpg)
 
 In creating Playbook Go, I tooked towards [Google Expeditions](https://edu.google.com/expeditions/#about){:target="_blank"} as an example of a shared, curated VR experience. I took heavy inspiration from their concept of a "VR fieldtrip" in the following features:
 
@@ -29,4 +29,4 @@ To implement these networked features, I had the distinct pleasure of wrangling 
 
 My final Playbook Go demo at a company all-hands also included the ability for trainers to markup the VR video with a brush. The demo was very well-received, and prompted leadership to further consider the far-reaching benefits of scaling VR training via standalone headsets.
 
-![]({{ site.url }}/assets/img/playbookgo2.jpg)
+![](/assets/img/playbookgo2.jpg)

@@ -16,14 +16,14 @@ I created an importable Unity package to interface with the NeuLog belt, which c
   <div class="vid-wrapper-wrapper-bv">
     <div class="vid-wrapper-bv">
       <video autoplay loop muted playsinline>
-        <source src="{{ site.url }}/assets/vid/BreathViz_Circle.mp4" type="video/mp4">
+        <source src="/assets/vid/BreathViz_Circle.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>
 
     <div class="vid-wrapper-bv">
       <video autoplay loop muted playsinline>
-        <source src="{{ site.url }}/assets/vid/BreathViz_Candle.mp4" type="video/mp4">
+        <source src="/assets/vid/BreathViz_Candle.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </div>

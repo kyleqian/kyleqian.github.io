@@ -22,13 +22,13 @@ You're lost and injured in the woods, and it's quickly getting dark. All you hav
 
 Most of these creatures are scared of light, so shining your flashlight (with limited battery) at them should make them go away. Some of them will stare from afar, and some will cautiously approach. Others will hunt you down in packs as you try to track their movement. Still others might trick you into looking where they aren't ([ventriloquist effect](https://en.wikipedia.org/wiki/Visual_capture){:target="_blank"}). Each creature has its own spatialized auditory signature, and the darker it gets, the harder it will be to locate them with only sight.
 
-The training goals of the game include sound localization, separation of auditory signals from noise, and effective multisensory integration in dynamic environments. See [our poster]({{ site.url }}/assets/misc/257Poster_KyleAngela.pdf){:target="_blank"} for more info!
+The training goals of the game include sound localization, separation of auditory signals from noise, and effective multisensory integration in dynamic environments. See [our poster](/assets/misc/257Poster_KyleAngela.pdf){:target="_blank"} for more info!
 
-<p><div class="img-wrapper"><img class="html-image" src="{{ site.url }}/assets/img/sotw-combined.jpg"></div>
+<p><div class="img-wrapper"><img class="html-image" src="/assets/img/sotw-combined.jpg"></div>
 <center><sub><i>We were a popular exhibit at CCRMA's annual Sonic Synapse Arcade.</i></sub></center></p>
 
-![]({{ site.url }}/assets/img/sotw3.jpg)
+![](/assets/img/sotw3.jpg)
 
-![]({{ site.url }}/assets/img/sotw2.jpg)
+![](/assets/img/sotw2.jpg)
 
-![]({{ site.url }}/assets/img/sotw1.jpg)
+![](/assets/img/sotw1.jpg)

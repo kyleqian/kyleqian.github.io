@@ -18,11 +18,11 @@ Scribble explores handwriting as a fast, intuitive, and portable means of text i
 
 We designed Scribble as an iOS app that uses Google's stroke-based OCR API for handwriting recognition. The app streams 3DOF pose, parsed text, raw stroke, and button presses via a local TCP tunnel. Our initial prototyping showed handwriting to be nearly twice as fast as more common "laser pointer" methods of text input in VR, as well as significantly less taxing on users' arms over a longer period. Handwriting also has the added advantage of emphasizing haptic, not visual feedback, since most people don't have trouble writing without looking.
 
-<p><div class="img-wrapper"><img class="html-image" src="{{ site.url }}/assets/img/prototype-combined.jpg"></div>
+<p><div class="img-wrapper"><img class="html-image" src="/assets/img/prototype-combined.jpg"></div>
 <center><sub><i>"Paper" prototyping with a smartphone (left), a laser pointer (top right), and a Gear VR controller (bottom right).</i></sub></center></p>
 
 To demo Scribble, we created a VR brainstorming app for the Oculus Go. Affectionately named Stormi, the app receives Scribble's TCP streams and transforms the user's smartphone into a sticky pad. By jotting ideas onto their sticky pad and swiping them onto a virtual white board, users are able to digitize insights from brainstorming sessions without sacrificing the physicality of the exercise.
 
 Further possibilities include version control for ideation, guided brainstorming sessions, and remote collaborative sessions via multiplayer networking.
 
-![]({{ site.url }}/assets/img/scribble1.jpg)
+![](/assets/img/scribble1.jpg)
