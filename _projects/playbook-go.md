@@ -1,7 +1,7 @@
 ---
 title: Playbook Go
 layout: project
-order_: 3
+order_: 4
 time_: Winter 2018
 prev_desc_: wireless, networked VR training
 prev_img_: /assets/img/index/playbook-go.jpg
