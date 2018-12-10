@@ -138,20 +138,27 @@ hr {
 
 .banner-wrapper {
   position: fixed;
-  width: 30%;
+  width: 23%;
   height: 100%;
   float: left;
 }
 
 .banner {
   text-align: right;
-  margin-left: 30%;
-  margin-right: 5%;
+  margin-left: 15%;
+}
+
+#banner-title {
+  font-size: 35px;
+}
+
+#banner-desc {
+  font-size: calc(0.05vw + 1em);
 }
 
 .content-wrapper {
   position: relative;
-  width: 70%;
+  width: 77%;
   float: right;
   overflow: visible;
   margin-bottom: 30px;
