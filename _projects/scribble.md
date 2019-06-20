@@ -1,7 +1,7 @@
 ---
 title: Scribble
 layout: project
-order_: 2
+order_: 80
 time_: Winter/Spring 2018
 prev_desc_: VR text input via handwriting
 prev_img_: /assets/img/index/scribble.jpg

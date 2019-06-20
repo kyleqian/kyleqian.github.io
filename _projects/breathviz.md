@@ -1,7 +1,7 @@
 ---
 title: BreathViz
 layout: project
-order_: 6
+order_: 100
 time_: Summer 2016
 tags_: Unity, biometrics, breathing
 prev_desc_: breathing with visual biofeedback
