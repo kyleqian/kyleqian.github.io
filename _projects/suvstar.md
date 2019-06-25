@@ -12,7 +12,7 @@ prev_img_: /assets/img/index/suvstar.jpg
 
 Stereoscopic Untethered Video See-Through Augmented Reality (SUVSTAR) was developed as the final project for EE267 - Virtual Reality at Stanford University with Dr. Gordon Wetzstein. It uses two separate ARCore-enabled devices, one per eye, to enable anchored, outdoor augmented reality. It was created as a proof-of-concept for AR HMDs of the future that users wear at all times, in any lighting, and without being tethered to a separate computation hub.
 
-<p><div class="vid-wrapper-yt"><iframe src="https://youtube.com/embed/aOOyccH9_Rw?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
+<p><div class="vid-wrapper-yt"><iframe src="https://youtube.com/embed/PGv5y24Hbx8?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
 <center><sub><i>A day in the life of a typical SUVSTAR user.</i></sub></center></p>
 
 <p><div class="vid-wrapper-yt"><iframe src="https://youtube.com/embed/czkt2sznx3E?rel=0&amp;showinfo=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe></div>
