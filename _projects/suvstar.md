@@ -5,7 +5,7 @@ order_: 81
 time_: Spring 2019
 tags_: AR, ARCore, Unity
 with_: Khoi Le
-ext_links_: GitHub Page|https://github.com/dragonkhoi/suvstar
+ext_links_: GitHub Page|https://github.com/dragonkhoi/suvstar;Extended Report|https://github.com/dragonkhoi/suvstar/blob/master/report_le_qian.pdf
 prev_desc_: outdoor AR HMD using two phones
 prev_img_: /assets/img/index/suvstar.jpg
 ---
