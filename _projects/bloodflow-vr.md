@@ -19,7 +19,7 @@ I collaborated with [Lighthaus Inc.](https://www.lighthaus.us/){:target="_blank"
 
 Medical simulation data is very dense, much denser than data one might typically use in a game engine such as Unity. The files produced by simulators like SimVasular ended up being way too large for Unity to smoothly import, render, and export. I had to find ways to reduce the upfront data footprint, as well as optimize how Unity ingested and rendered the results.
 
-One persistant problem was that aggregate timestep files generated for any sufficiently detailed simulation regularly topped dozens of gigabytes. At the time, Unity---despite being a 64-bit engine---was not able to export shared resources exceeding 4gb. In other words, Unity is normally not able to export single scenes that contain more than 4gb of content. Cache trickery was necessary to get around this, in which a series of "dummy" scenes were created and preloaded in chunks of 4gb apiece.
+Aggregate timestep files generated for any sufficiently detailed simulation regularly topped dozens of gigabytes. At the time, Unity---despite being a 64-bit engine---was not able to export shared resources exceeding 4gb. In other words, Unity is normally not able to export single scenes that contain more than 4gb of content. Cache trickery was necessary to get around this, in which a series of "dummy" scenes were created and preloaded in chunks of 4gb apiece.
 
 <p><div class="vid-wrapper-bf"><video autoplay loop muted playsinline>
   <source src="/assets/vid/flow.mp4" type="video/mp4">
