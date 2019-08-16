@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700,900");
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:600&display=swap');
 
 body {
   background-color: #fff;
@@ -150,6 +151,7 @@ hr {
 
 #banner-title {
   font-size: 35px;
+  font-family: 'Fira Sans', sans-serif;
 }
 
 #banner-desc {
