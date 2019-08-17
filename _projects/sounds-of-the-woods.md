@@ -40,16 +40,6 @@ On one hand, developing for the Go imposed a number of significant limitations w
 
 On the other hand, a major win with using the standalone Go, besides ease of setup, is that even if enemies appear behind the player, they can twist and turn around all they want without fear of getting tangled in wires. This is especially true (and more fun) if they sit in a swivel chair.
 
-#### _Diegetic UI/UX_
-
-Taking a leaf from other immersive VR games, most information in Sounds of the Woods, besides the start screen and background music, is conveyed via diegetic elements:
-
-* Instructions and context are given through a nearby radio, by a fellow Agent.
-* Game over state is also delivered via radio, in addition to an eye-closing effect and heart beat sounds.
-* Remaining battery is displayed on the flashlight itself.
-* Progress through game is conveyed through changing lighting conditions.
-* Each enemy type emits a unique, spatialized sound effect.
-
 ## Implementation
 
 Sounds of the Woods was created entirely in Unity for the Oculus Go, with myself as the programming half. Nearly all assets and scripts were created from scratch for this game, except for the trees and sounds.
